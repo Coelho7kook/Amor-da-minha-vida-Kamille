@@ -42,6 +42,9 @@ git push -u origin main
             font-size: 1.5em;
             color: #ff6f61;
         }
+        iframe {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -52,8 +55,6 @@ git push -u origin main
         <p>Espero que você já esteja dormindo bem, com sonhos tranquilos, e quero que saiba que te amo muito, muito, muito, muito, muito, muito...</p>
         <p class="hearts">Desejo que você tenha uma noite linda, com muito cuidado. Até amanhã! Bjssssss 💖</p>
     </div>
-    <audio autoplay loop>
-        <source src="https://www.youtube.com/embed/5b2MFJMeonI?autoplay=1&loop=1&playlist=5b2MFJMeonI" type="audio/mpeg">
-    </audio>
+    <iframe width="0" height="0" src="https://www.youtube.com/embed/VHQEiMw7IWo?autoplay=1&loop=1&playlist=VHQEiMw7IWo" frameborder="0" allow="autoplay"></iframe>
 </body>
 </html>
